@@ -29,3 +29,4 @@ public class Bankkonto {
         System.out.println("Aktueller Kontostand: " + kontostand + " €");
     }
 }
+//..
